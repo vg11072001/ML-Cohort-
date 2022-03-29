@@ -7,4 +7,8 @@ AIM: To create a neural network model of the highest accuracy, with the least nu
 dataset
 4. Tested the model on the test dataset
 
+## Model architecture
+![image](https://user-images.githubusercontent.com/67424390/160528540-c4159d52-177e-45af-8377-c1b47a8f87b2.png)
 
+## Model Accuracy
+![image](https://user-images.githubusercontent.com/67424390/160528755-5a8ad289-f5ba-41ed-a1aa-9c2d6baece35.png)
